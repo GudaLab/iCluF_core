@@ -1,7 +1,7 @@
 # iCluF
 Iterative Cluster Fusion (iCluF) is a Python-based tool that captures and integrates commonalities from multiomic datasets and identifies clusters in an unsupervised manner. This method requires at least two datasets to integrate.  
 # Download
-The software iCluF can be downloaded from https://github.com/shakyawar/iCluF_core
+The software iCluF can be downloaded from https://github.com/GudaLab/iCluF_core
 # Running iCluF 
 ## Example 1: 
 To predict 3 clusters for cancer type “CHOL” with n_iter (Number of iterations) = 7, use the following command-
